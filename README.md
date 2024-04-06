@@ -1,6 +1,6 @@
 # Project2
 Project 2 for Database and Design Class 
-Attached to this Repository is a file called Project 2 which contains:
+Attached to this Repository is a zip file called Project 2 which contains:
 1) 5 files called Station.json, Users.json, Admin.json, Status.json, and Trips.json.
 2) 1) All my queries named Query1.js, Query2.js, Query 3.js, Query4.js, Query5.js.
 3) It also has 5 csv files which contain all 5 query results.
