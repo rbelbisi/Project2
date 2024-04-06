@@ -19,7 +19,7 @@ Attached to this Repository is a file called Project 2 which contains:
 I did these queries by using mongo compass by following these steps: 
 1) In Compass, click on the “Databases” tab, then “Create Database” to set up a new database.
 2) With the database and collection created, you should see options to insert and import data within the collection view.
-3) Click on the “Add Data” dropdown and select “Import File”. Choose the JSON file you want to import.
+3) Click on the “Add Data” dropdown and select “Import File”. Choose the 5 JSON file's attatched to the folder (Project2). 
 This imports the data and allows for queries to be created. 
 
 For the data collected, I used 4 tables from SF Bay Area Bikeshare from Kaggle and created two tables ‘users’ and ‘admins’ from Mackaroo. I joined them together on the db browser, created json files for each table then uploaded them into MongoDB Compass to complete my project.  
