@@ -23,3 +23,5 @@ I did these queries by using mongo compass by following these steps:
 This imports the data and allows for queries to be created. 
 
 For the data collected, I used 4 tables from SF Bay Area Bikeshare from Kaggle and created two tables ‘users’ and ‘admins’ from Mackaroo. I joined them together on the db browser, created json files for each table then uploaded them into MongoDB Compass to complete my project.  
+
+I have also attempted to create a Node.js Express app with the help of ChatGPT. I set up npm in Visual Studio Code and worked on displaying CRUD operations to create an interface. 
